@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMeetings", "MyMeetings\My
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{736912C6-2930-4B83-9E9B-18193BE68665}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMeetingsTest", "MyMeetingsTest\MyMeetingsTest.csproj", "{0123B85F-113A-45CB-ABDF-A1D9A926A539}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMeetingsTest", "MyMeetingsTest\MyMeetingsTest.csproj", "{0123B85F-113A-45CB-ABDF-A1D9A926A539}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "publish", "publish", "{C8AD7F21-D101-4681-9A5C-29BABAE31E1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
