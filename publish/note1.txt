@@ -1,0 +1,42 @@
+{
+  "1": {
+    "Event": "meet1",
+    "Description": "meetD1",
+    "DateTimeStart": "2023-08-03T18:30:00",
+    "DateTimeEnd": "2023-08-03T18:40:00",
+    "Remind": {
+      "TimeUnit": "min",
+      "Value": 15
+    }
+  },
+  "2": {
+    "Event": "meet1",
+    "Description": "meetD1",
+    "DateTimeStart": "2023-08-03T19:30:00",
+    "DateTimeEnd": "2023-08-03T19:40:00",
+    "Remind": {
+      "TimeUnit": "min",
+      "Value": 15
+    }
+  },
+  "3": {
+    "Event": "meet1",
+    "Description": "meetD1",
+    "DateTimeStart": "2023-08-03T20:30:00",
+    "DateTimeEnd": "2023-08-03T20:40:00",
+    "Remind": {
+      "TimeUnit": "min",
+      "Value": 15
+    }
+  },
+  "5": {
+    "Event": "vs",
+    "Description": "fasdfasdfadsfadsf",
+    "DateTimeStart": "2023-08-03T23:30:00",
+    "DateTimeEnd": "2023-08-03T23:40:00",
+    "Remind": {
+      "TimeUnit": "min",
+      "Value": 5
+    }
+  }
+}
